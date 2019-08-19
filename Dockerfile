@@ -1,6 +1,6 @@
 FROM amazonlinux
 
-RUN apt-get install -y httpd
+RUN yum install -y httpd
 
 COPY ./app /var/www/html
 
