@@ -77,23 +77,23 @@ following information:
 
 *Container Information*
 
-    Container Operating System:
+    Container Operating System: Amazon Linux
 
-    Container Package Management System:
+    Container Package Management System: Yum
 
-    Linux Kernel Version:
+    Linux Kernel Version: Linux 7ea8007a8783 4.9.125-linuxkit
 
-    Is PHP present on this system?:
+    Is PHP present on this system?: No 
 
-    Number of running processes:
+    Number of running processes: 8 
 
-    What is the PID of of the primary 'httpd' process?:
+    What is the PID of of the primary 'httpd' process?: 14540
 
-    Who has permission to read the file /etc/httpd/conf/httpd.conf?
+    Who has permission to read the file /etc/httpd/conf/httpd.conf? ALL -rw-r--r--
 
-    How many lines does the file /etc/httpd/httpd.conf consist of?
+    How many lines does the file /etc/httpd/httpd.conf consist of? 362
 
-    How many non-empty lines does the file /etc/httpd/httpd.conf consist of?
+    How many non-empty lines does the file /etc/httpd/httpd.conf consist of? 322
 
 Please commit your answers to update this README.
 
