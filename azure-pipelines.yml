@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- task: ATask@
+- task: ATask@1
   inputs:
     azureSubscription: "lw-playground"
 
