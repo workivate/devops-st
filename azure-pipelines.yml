@@ -10,6 +10,10 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+- task: A Task
+  inputs:
+    azureSubscription: "lw-playground"
+
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
